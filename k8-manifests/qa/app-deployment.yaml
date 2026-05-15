@@ -17,7 +17,7 @@ spec:
       - name: regcred
       containers:
       - name: nodejs-app
-        image: teamraphael/nodejs-app:332b8e9f00dc82efb2db3f8d38ddcf578e75b0b5
+        image: teamraphael/nodejs-app:b4e13b467699ecd777d5e3b75d1c99cb220eb662
         ports:
         - containerPort: 5000
         env:
